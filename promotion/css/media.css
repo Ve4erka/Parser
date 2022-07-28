@@ -1,0 +1,1001 @@
+
+
+@media screen and (max-width: 1440px) {
+	.bookmark {
+		background-size: 500px 80px;
+	}
+
+	.bookmark2 {
+		background-size: 550px 80px;
+	}
+
+	.bookmark3 {
+		background-size: 390px 80px;
+	}
+
+
+}
+
+
+@media screen and (max-width: 1366px) {
+	
+	.approximate-img2 {
+display: none;
+	}
+	
+
+	
+}
+
+@media screen and (max-width: 1350px) {
+	
+}
+
+@media screen and (max-width: 1320px) {
+	
+}
+
+@media screen and (max-width: 1290px) {
+	
+}
+
+@media screen and (max-width: 1230px) {
+	
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	
+	.bookmark {
+	    background-size: 400px 80px;
+	}
+
+	.bookmark2 {
+	    background-size: 450px 80px;
+	}
+
+	.bookmark3 {
+		background-size: 260px 80px;
+	}
+
+
+
+}
+
+@media screen and (max-width: 1190px) {
+	
+}
+
+@media screen and (max-width: 1170px) {
+	
+}
+
+@media screen and (max-width: 1110px) {
+	.work-absolute {
+		display: none;
+	}
+
+	.work-absolute2 {
+		display: none;
+	}
+
+	.marketing-img {
+		display: none;
+	}
+
+
+  
+}
+
+@media screen and (max-width: 1100px) {
+	
+	.approximate-img2 {
+		display: none;
+	}
+
+  
+}
+
+@media screen and (max-width: 1050px) {
+	
+	
+
+  
+}
+
+
+@media screen and (max-width: 1024px) {
+	
+	.marketing-tabs-title2 {
+		padding: 0 0 0 0;
+		font-family: 'Inter-Regular';
+		font-size: 11px;
+		line-height: 15px;
+		color: #161616;
+		font-weight: bold;
+		margin-top:2px;
+	}
+
+	.marketing {
+		background: none;
+	}  
+
+
+}
+
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+
+	.price-box {
+	    width: 656px;
+	    background: #F6F6F6;
+	    border-radius: 20px;
+	    padding: 45px 80px 25px 60px;
+	    margin: 77px auto 0 auto;
+	    position: relative;
+	    z-index: 1;
+	}
+
+	.approximate-img {
+    position: absolute;
+    top: 20%;
+    left: 0px;
+}
+
+	.figure {
+		background-size: 200px;
+	}
+
+	.work:before {
+		background-size: 500px;
+	}
+
+	.bookmark {
+	    background-size: 300px 80px;
+	}
+
+	.bookmark2 {
+	    background-size: 350px 80px;
+	}
+  
+}
+
+@media screen and (max-width: 950px) {
+	ul.tabs li {
+		width: 20%;
+		font-size: 10px;
+		line-height: 13px;
+		padding: 20px 0;
+		height:39px;
+	}
+
+	.marketing-link {
+		width: 16.666666%;
+	}
+
+	.marketing-link a {
+		width: 100%;
+		font-size: 10px;
+		line-height: 13px;
+		padding: 20px 0;
+	}
+
+	ul.tabs {
+		width: 83.33333%;
+	}
+
+	.work-border-link {
+		width: 80%;
+	}
+
+	.work-border-button {
+		width: 20%;
+	}
+
+	.work-border-link a {
+		width: 100%;
+	}
+
+	.modalContent {
+		padding: 40px 15px;
+	}
+
+	.modalContent2 {
+		padding: 40px 15px;
+	}
+
+	.modalContent3 {
+		padding: 40px 15px;
+	}
+
+	.modalContent4 {
+		padding: 40px 15px;
+	}
+
+	.modal {
+		width: 100%;
+	}
+
+	.modal2 {
+		width: 100%;
+	}
+
+	.modal3 {
+		width: 100%;
+	}
+
+	.modal4 {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 910px) {
+	.work2-block {
+	    padding: 0 20px 0 0;
+	    width: 60%;
+	}
+}
+
+@media screen and (max-width: 850px) {
+	.work-border-link {
+		width: 75%;
+	}
+
+	.work-border-button {
+		text-align: right;
+		width: 25%;
+	}
+
+	.approximate-border {
+		width: 600px;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	
+	.marketing-tabs-title {
+	    padding: 0 0 0 0;
+	    font-family: 'Inter-Regular';
+	    font-size: 11px;
+	    line-height: 14px;
+	    color: #161616;
+	}
+
+	.marketing-tabs-price-text {
+	    font-family: 'Inter-Medium';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #000000;
+	}
+
+	.marketing-tabs-price-absolute {
+	    position: absolute;
+	    top: -10px;
+	    left: 25%;
+	}
+
+	.marketing-tabs-example {
+	    width: 14%;
+	    font-family: 'Inter-Medium';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #000000;
+	}
+
+	.marketing-tabs-title2 {
+	    padding: 0 0 0 0;
+	    font-family: 'Inter-Regular';
+	    font-size: 11px;
+	    line-height: 15px;
+	    color: #161616;
+	}
+
+	.marketing-tabs-price-text2 {
+	    font-family: 'Inter-Bold';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #000000;
+		padding-left: 15px;
+	}
+
+	.marketing-tabs-example button {
+	    font-family: 'Inter-Light';
+	    text-decoration: none;
+	    border-bottom: 1px dashed #000000;
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #010F42;
+	}
+
+	.marketing-tabs-example2 button {
+	    font-family: 'Inter-Light';
+	    text-decoration: none;
+	    border-bottom: 1px dashed #000000;
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #010F42;
+	}
+
+	.marketing-tabs-request {
+	    width: 13%;
+	    font-family: 'Inter-Regular';
+	    font-size: 14px;
+	    line-height: 17px;
+	    color: #161616;
+	}
+
+	.approximate-border {
+		width: 550px;
+		padding: 35px 30px 25px 30px;
+	}
+	
+
+}
+
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+	
+
+	.bookmark-title button {
+		font-size: 16px;
+		line-height: 19px;
+		width: 177px;
+	}
+
+	.bookmark {
+		background-size: 250px 46px;
+		padding: 13px 0 15px 0;
+	}
+
+	.bookmark-title2 button {
+		font-size: 16px;
+		line-height: 19px;
+		width: 222px;
+	}
+
+	.bookmark2 {
+		background-size: 300px 46px;
+		padding: 13px 0 15px 0;
+	}
+
+	.bookmark-title3 {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.bookmark3 {
+		background-size: 120px 46px;
+		padding: 13px 0 15px 0;
+	}
+
+	.work-title {
+		font-size: 14px;
+		line-height: 17px;
+	}
+
+	.work-suptitle {
+		font-size: 18px;
+		line-height: 22px;
+		padding: 30px 0 0 15px;
+	}
+
+	.work-block {
+		width: 50%;
+	}
+
+	.work-border2 {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		padding: 0;
+	}
+
+	ul.tabs li {
+		font-size: 8px;
+		line-height: 11px;
+	}
+
+	.marketing-link a {
+		font-size: 8px;
+		line-height: 11px;
+	}
+
+	.marketing-title {
+		padding: 25px 0 0 10px;
+		font-size: 18px;
+		line-height: 22px;
+	}
+	.marketing-title a {
+		font-size: 18px;
+		line-height: 22px;
+	}
+
+	.approximate-title {
+		font-size: 18px;
+		line-height: 22px;
+	}
+
+	.approximate-suptitle {
+		font-size: 21px;
+		line-height: 25px;
+	}
+
+	.footer-li {
+	    padding: 0 10px;
+	}
+
+	.work2-section-price {
+		font-size: 21px;
+		line-height: 25px;
+	}
+	
+}
+
+@media screen and (max-width: 700px) {
+
+	.price-box {
+		width: 100%;
+	}
+	
+	.approximate-img {
+		display: none;
+	}
+
+	.approximate-block {
+		padding: 25px 0 0 0;
+	}
+
+	.approximate-border {
+		width: 100%;
+	}
+
+	.work-border2 {
+		height: 377px;
+	}
+
+	.work2-wrap {
+		flex-wrap: wrap;
+	}
+
+	.work2-block {
+		width: 100%;
+		padding: 0;
+	}
+
+	.work2-block2 {
+		width: 100%;
+		padding: 30px 0 0 0;
+	}
+
+	.work {
+		background-size: cover !important;
+		background: #F8EFDE url(../images/work-bg.png) 47% 0;
+	}
+
+	.work2-section-title br {
+		display: none;
+	}
+
+	.work2-section-title {
+		width: 100%;
+	}
+
+	.work2-section-price {
+		text-align: left;
+		width: 100%;
+		padding: 5px 0 0 0;
+	}
+
+	.work2-section-wrap {
+		flex-wrap: wrap;
+	}
+
+	.work2-block-wrap {
+		display: none;
+	}
+
+	.work2-block-wrap2 {
+	  padding: 20px 0 0 0;
+	  display: flex;
+	  align-items: center;
+	}
+	
+
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	.price-box {
+		padding: 36px 24px 25px 24px;
+	}
+	.flex-app{
+		  padding: 0 0 30px 0;
+	}
+	
+	.mobila-none {
+		display: none;
+	}
+	.marketing-tabs-sup{
+		display: block;
+	}
+	.marketing-tab-price{
+	 display: flex;
+	}
+
+	.marketing-tabs-block {
+		width: 100%;
+	}
+
+	.marketing-tabs-inner {
+		flex-wrap: wrap;
+	}
+
+	.marketing-tabs-price {
+		width: 100%;
+		padding: 15px 0 20px 0;
+	}
+
+	.marketing-tabs-example {
+		width: 50%;
+	}
+
+	.marketing-tabs-example2 {
+		width: 50%;
+	}
+
+	.marketing-tabs-request {
+		font-size: 16px;
+		line-height: 19px;
+		width: 100%;
+		padding: 30px 0 0 0;
+	}
+
+	.footer-wrap {
+		flex-wrap: wrap;
+	}
+
+	.footer-block {
+		text-align: center;
+		width: 100%;
+	}
+
+	.footer-ul {
+		padding: 15px 0;
+		justify-content: center;
+	}
+
+	.work-border2 {
+		height: 358px;
+	}
+
+	.work:before {
+	    background-size: 350px;
+	}
+
+	.work:after {
+	    background-size: 150px;
+	}
+
+	.marketing-tabs-title {
+		font-size: 13px;
+		line-height: 16px;
+	}
+
+	.marketing-tabs-title2 {
+		font-size: 14px;
+		line-height: 19px;
+	}
+
+	.marketing-tabs-wrap {
+		border-bottom: 1px solid #9C9C9C;
+		flex-direction: column;
+	}
+
+	.marketing-tabs-price-text2 {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.marketing-tabs-example button {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.marketing-tabs-example2 button {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.approximate-bg {
+		height: 80px;
+	}
+
+	.modal-wrap {
+		flex-wrap: wrap;
+	}
+
+	.modal-block {
+		width: 100%;
+		padding: 0;
+	}
+
+	.modal-block2 {
+		width: 100%;
+		padding: 20px 0 0 0;
+	}
+	
+
+}
+
+@media screen and (max-width: 590px) {
+
+	.approximate-border-title {
+    font-family: 'Inter-ExtraLight';
+    font-size: 16px;
+    display: block;
+    line-height: 19px;
+    color: #000000;
+    margin: 0 10px 0 0;
+    width: 100%;
+    text-align: center;
+}
+  	.work-border2 {
+  		height: 341px;
+  	}
+
+  	.marketing-tabs {
+  		flex-wrap: wrap;
+  	}
+
+  	.approximate-border-title2 {
+    padding: 10px 0 6px 0;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+  	#total-label2 {
+    font-size: 16px;
+    background: #fff;
+    width: 100%;
+    text-align: center;
+    border-radius: 100px;
+    line-height: 44px;
+    margin-bottom: 9px;
+}
+
+.price-box {
+    padding: 36px 24px 0px 24px;
+        margin: 27px auto 0 auto;
+}
+
+  	ul.tabs {
+  		flex-wrap: wrap;
+  		width: 100%;
+  	}
+
+  	ul.tabs li {
+  		padding: 17px 0;
+  		width: 100%;
+  		font-size: 14px;
+		line-height: 17px;
+  	}
+
+  	.border-tabs {
+  		border-radius: 10px 10px 0 0;
+  	}
+  	  	.border-tabs2 {
+  		border-radius: 0 0 10px 10px ;
+  	}
+
+  	.marketing-link {
+  		width: 100%;
+  	}
+
+  	.marketing-link a {
+  		padding: 17px 0;
+  		font-size: 14px;
+  		line-height: 17px;
+  		border-radius: 0 0 10px 10px;
+  	}
+}
+
+
+@media screen and (max-width: 540px) {
+ 	.work-border2 {
+ 		height: 80px;
+ 	}
+
+ 	.approximate-border {
+ 		padding: 35px 25px 25px 25px;
+ 	}
+
+
+}
+
+@media screen and (max-width: 500px) {
+  	.approximate-border-links {
+  		flex-wrap: wrap;
+  	}
+
+  	.approximate-border-link {
+  		width: 100%;
+  	}
+
+  	.approximate-border-link a {
+  		padding: 20px 0;
+  		width: 100%;
+  	}
+
+  	.approximate-border-link2 {
+  		padding: 20px 0 0 0;
+  		width: 100%;
+  	}
+
+  	.approximate-border-link2 a {
+  		padding: 20px 0;
+  		width: 100%;
+  	}
+
+  	.work-block {
+  		padding: 40px 15px 0 15px;
+  		width: 100%;
+  	}
+
+  	.work-img img {
+  		width: 100%;
+  	}
+
+  	.work-border2 {
+  		display: block;
+  		margin-top: 20px;
+  	}
+
+  	.work-link {
+  		display: flex;
+  		justify-content: center;
+  	}
+
+  	.work-link a {
+  		font-family: 'Inter-Light';
+  		text-decoration: none;
+  		border-bottom: 1px dashed #000000;
+  		font-size: 21px;
+		line-height: 25px;
+		color: #000000;
+  	}
+
+  	.work-arrow {
+  		display: block;
+  	}
+
+  	.work {
+  		background-size: cover;
+  		background: #F8EFDE url(../images/work-bg.png) 47% 0;
+  	}
+
+  	.approximate-border-number {
+  		width: 12%;
+  	}
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  	
+}
+
+@media screen and (max-width: 460px) {
+  
+	.work2-block-none {
+		display: none;
+	}
+
+	.work2-block-block {
+		width: 100%;
+		padding: 0;
+	}
+
+	.work2-block-inner {
+		justify-content: space-between;
+		display: flex;
+		align-items: center;
+		padding: 20px 0 0 0;
+	}
+
+	.marketing-tabs-title2 {
+		font-size: 11px;
+		font-weight: bold;
+	}
+ 
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+	.mb-absolute {
+    top: 21px;
+    left: 17%;
+    position: absolute;
+    border: 1px solid #21B888;
+     background: #fff;
+}
+
+#amount-label {
+    width: 20%;
+    font-family: 'Inter-Light';
+    font-size: 21px;
+    line-height: 25px;
+    color: #FF0000;
+    margin: 0 0px 0 0;
+}
+
+#total-label {
+    width: 20%;
+    font-family: 'Inter-Light';
+    font-size: 21px;
+    line-height: 25px;
+    color: #CC0000;
+    margin: 0 0 0 0;
+}
+
+.approximate-border-suptitle {
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+} 
+
+.marketing-tabs-restagle2 {
+    font-family: 'Inter-Bold';
+    font-size: 12px;
+    line-height: 15px;
+    color: #000;
+    padding: 1px 5px 1px 5px;
+    margin: 0 0 0 10px;
+    border-radius: 4px;
+    border: 1px solid #21B888;
+    background: #fff;
+}
+
+  	.figure {
+
+  		    background: url(../images/work-af-mb.png) 95% 0 no-repeat;
+  		    top: 100px;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 366px;
+   
+  	}
+
+  	.work:after {
+  		display: none;
+  	}
+
+  	.work:before {
+	    background-size: 250px;
+	}
+
+	.logo a img {
+		width: 135px;
+	}
+
+	.logo-number a {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.work:after {
+	    top: 100px;
+	    content: '';
+	    position: absolute;
+	    width: 100%;
+	    height: 366px;
+	    background: url(../images/work-af-mb.png) 95% 0 no-repeat;
+	}
+
+	.bookmark {
+	    background-size: 230px 46px;
+	    padding: 13px 0 15px 0;
+	}
+
+	.bookmark2 {
+	    background-size: 280px 46px;
+	    padding: 13px 0 15px 0;
+	}
+
+	.approximate {
+	    position: relative;
+	    padding: 215px 0 0 0;
+	    background: url(../images/approximate-bg.png) 47% 0 no-repeat;
+	}
+
+	.approximate-border-title2 br {
+		display: none;
+	}
+
+	.approximate-border-title2 {
+		text-align: center;
+	}
+
+	.approximate-border-number {
+	    width: 15%;
+	}
+
+	.logo-wrap {
+	    z-index: 1;
+	    position: relative;
+	    display: flex;
+	    align-items: center;
+	    padding: 20px 0 80px 0;
+	}
+
+	.watchothers-sl .slick-slide {
+		margin: 0 !important;
+	}
+
+	.watchothers-img img {
+		width: 100%;
+	}
+
+	.watchothers {
+		padding: 60px 0;
+	}
+
+	.marketing-tabs-title2 br {
+		display: block;
+	}
+
+	.marketing-tabs-title2 {
+		position: relative;
+	}
+
+	
+	.marketing-tabs-block {
+		position: relative;
+	}
+
+
+  	
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+	
+	.approximate-border-number {
+	    width: 19%;
+	}
+
+	.work2-section2-img {
+	    width: 30%;
+	}
+
+			
+	
+	
+}
+
+@media screen and (max-width: 363px) {
+	
+
+	.marketing-tabs-block {
+		position: relative;
+	}
+
+	.work2-section-img {
+	    width: 20%;
+	}
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 640px) {
+	.modalContentThanks{
+		width:90%;
+		padding:35px;
+	}
+}
